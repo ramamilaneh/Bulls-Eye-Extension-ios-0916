@@ -9,6 +9,14 @@ If you're reading this, you should have already completed Tutorial 1 of Ray Wend
 
 ###1. Creating the new UI
 
+- Add second slider
+- Add label for operation
+
 ###2. More randomness
 
+- Set min and max values for each slider to random numbers
+- Use some random number from the range of each slider and the given operand to calculate a goal value
+
 ###3. ???
+
+###4. Profit
