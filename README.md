@@ -22,7 +22,7 @@ Try to constrain both of these new elements so that they are laid out like the a
 
 ###2. Updating the game
 
-Now that you have the extra UI elements set up, you should be ready to update the scoring for the game. You'll need to grab the values from both of the sliders and make sure that their sum is equal to the randomly generated target number. Feel free to update the criteria for scoring as you see fit. You can also update the range for the randomly generated target number to 1-200 since we're now checking a sum instead of a single number.
+Now that you have the extra UI elements set up, you should be ready to update the scoring for the game. You'll need to grab the values from both of the sliders and make sure that their sum is equal to the randomly generated target number. Feel free to update the criteria for scoring as you see fit. You can also update the range for the randomly generated target number to 2-200 since we're now checking a sum instead of a single number.
 
 ###3. More randomness!
 
@@ -30,6 +30,6 @@ Let's change up the ranges for each of the sliders. The minimum value for the fi
 
 You should also generate an operator to be displayed in the label - randomly select `+`, `-`, `x`, or `÷`. 
 
-You might be realizing a proble with the app at this point. We can't jsut randomly generate a number from 1-100 for the target number anymore since there's a chance that the operation involving the 2 numbers from the sliders can't be equal to a value between 0-100. What sort of math can you do to make sure that the target number is a value that can be reached from the sliders?
+You might be realizing a problem with the app at this point. We can't jsut randomly generate a number from 1-100 for the target number anymore since there's a chance that the operation involving the 2 numbers from the sliders can't be equal to a value between 0-100. What sort of math can you do to make sure that the target number is a value that can be reached from the sliders?
 
-That's it! Bask in the glory of your newly updated Bull's Eye app
+That's it! Bask in the glory of your newly updated Bull's Eye app.
