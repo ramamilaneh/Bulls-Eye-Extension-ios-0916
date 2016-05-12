@@ -30,6 +30,6 @@ Let's change up the ranges for each of the sliders. The minimum value for the fi
 
 You should also generate an operator to be displayed in the label - randomly select `+`, `-`, `x`, or `÷`. 
 
-You might be realizing a problem with the app at this point. We can't jsut randomly generate a number from 1-100 for the target number anymore since there's a chance that the operation involving the 2 numbers from the sliders can't be equal to a value between 0-100. What sort of math can you do to make sure that the target number is a value that can be reached from the sliders?
+You might be realizing a problem with the app at this point. We can't just randomly generate a number from 1-100 for the target number anymore since there's a chance that the operation involving the 2 numbers from the sliders can't be equal to a value between 0-100. What sort of math can you do to make sure that the target number is a value that can be reached from the sliders?
 
 That's it! Bask in the glory of your newly updated Bull's Eye app.
